@@ -1,0 +1,47 @@
+.container{
+		max-width: 400px;
+		border: 1px red;
+		border-radius: 5px ;
+		margin: 0 auto;
+		padding: 20px;
+		font-family: times new roman;
+		background-color: darkblue;
+		color: white;
+}
+.name{
+margin-bottom: 20px;
+padding: 5px;
+display:;
+}
+.form-group{
+margin-bottom: 20px;
+}
+h2{
+	font-family: arial,sans-serif;
+}
+button{
+	background-color: green;
+	padding: 10px 170px;
+	color: white;
+	cursor: pointer;
+	border: none;
+	border-radius: 6px;
+}
+
+.form-group input[type="text"],
+.form-group textarea,.form-group input[type="number"]{
+	width: 100%;
+	padding: 5px;
+	border: 1px solid pink;
+	border-radius: 3px;
+
+}
+.form-group textarea{
+	height: 100px;
+}
+button:hover{
+	background-color: darkblue;
+}
+.container:hover{
+	background-color: deepskyblue;
+}
